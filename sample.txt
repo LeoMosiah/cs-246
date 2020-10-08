@@ -1,1 +1,1 @@
-Github is a great platform for storing source codes and has a great incentive for open source projects.
+Github is a great platform for storing source codes and has a great incentive for open source projects Gitlab is one of the competitors of Github.
